@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+
+This is [Jason](//jsntn.com), an Emacs user often stays on [haikebang.org](//haikebang.org) recently.
 
 <!--
 **jsntn/jsntn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
