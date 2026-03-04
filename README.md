@@ -30,6 +30,8 @@ This is [Jason](//jsntn.com), an Emacs user stays a lot on [haikebang.org](//hai
 
 ### System Configuration & Tools
 - 🔐 **[veracrypt-launcher](https://github.com/jsntn/veracrypt-launcher)** - Windows batch script for quickly mounting VeraCrypt volumes
+- 🛡️ **[procguard](https://github.com/ahk-utils/procguard)** - AutoHotkey process monitoring and management utility
+- 🖱️ **[move-cursor](https://github.com/ahk-utils/move-cursor)** - AutoHotkey script for enhanced cursor movement and control
 
 ## What I'm About
 
