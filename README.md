@@ -12,6 +12,7 @@ This is [Jason](//jsntn.com), an Emacs user stays a lot on [haikebang.org](//hai
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Anki](https://img.shields.io/badge/-Anki-0093D0?style=flat-square&logo=anki&logoColor=white)
+![shufang.org](https://img.shields.io/badge/-shufang.org-8B7AB8?style=flat-square&logo=readthedocs&logoColor=white)
 
 > Building tools for productivity and personal workflows. Passionate about Emacs, Org Mode, and creating efficient development environments.
 
