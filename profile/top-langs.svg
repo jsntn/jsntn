@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="181.93"
+          width="181.94"
           height="8"
           fill="#c065db"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="181.93"
+          x="181.94"
           y="0"
-          width="29.89"
+          width="29.88"
           height="8"
           fill="#663399"
         />
@@ -249,7 +249,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#c065db" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Emacs Lisp 72.77%
+        Emacs Lisp 72.78%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
